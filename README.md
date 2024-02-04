@@ -11,5 +11,5 @@ My version of 2048, made with pure java goodness. Includes the ability to choose
 ### Kingdom Conqueror
 My attempt at creating a peer-to-peer online game, using only AutoHotkey. It works in specific scenarios, but I haven't had a lot of requests to go back and fix it.
 
-### [Shooty Platformer Thing]
+### Shooty Platformer Thing
 This one actually works as designed, its just wasn't designed very well. Shoot the prisms to gain coin, spend coin for upgrades, repeat until death.
